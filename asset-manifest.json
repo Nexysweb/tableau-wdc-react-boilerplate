@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tableau-wdc-react-boilerplate/static/js/main.7b5257bf.chunk.js",
-    "main.js.map": "/tableau-wdc-react-boilerplate/static/js/main.7b5257bf.chunk.js.map",
+    "main.js": "/tableau-wdc-react-boilerplate/static/js/main.2c5706e1.chunk.js",
+    "main.js.map": "/tableau-wdc-react-boilerplate/static/js/main.2c5706e1.chunk.js.map",
     "runtime-main.js": "/tableau-wdc-react-boilerplate/static/js/runtime-main.3be910e2.js",
     "runtime-main.js.map": "/tableau-wdc-react-boilerplate/static/js/runtime-main.3be910e2.js.map",
-    "static/js/2.53c215e1.chunk.js": "/tableau-wdc-react-boilerplate/static/js/2.53c215e1.chunk.js",
-    "static/js/2.53c215e1.chunk.js.map": "/tableau-wdc-react-boilerplate/static/js/2.53c215e1.chunk.js.map",
+    "static/js/2.6bfe963b.chunk.js": "/tableau-wdc-react-boilerplate/static/js/2.6bfe963b.chunk.js",
+    "static/js/2.6bfe963b.chunk.js.map": "/tableau-wdc-react-boilerplate/static/js/2.6bfe963b.chunk.js.map",
     "index.html": "/tableau-wdc-react-boilerplate/index.html",
-    "precache-manifest.62706a565e615a2361473ec3691ffef0.js": "/tableau-wdc-react-boilerplate/precache-manifest.62706a565e615a2361473ec3691ffef0.js",
+    "precache-manifest.9c0dc188f194d3cfca9f403d94930b8d.js": "/tableau-wdc-react-boilerplate/precache-manifest.9c0dc188f194d3cfca9f403d94930b8d.js",
     "service-worker.js": "/tableau-wdc-react-boilerplate/service-worker.js",
-    "static/js/2.53c215e1.chunk.js.LICENSE.txt": "/tableau-wdc-react-boilerplate/static/js/2.53c215e1.chunk.js.LICENSE.txt"
+    "static/js/2.6bfe963b.chunk.js.LICENSE.txt": "/tableau-wdc-react-boilerplate/static/js/2.6bfe963b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3be910e2.js",
-    "static/js/2.53c215e1.chunk.js",
-    "static/js/main.7b5257bf.chunk.js"
+    "static/js/2.6bfe963b.chunk.js",
+    "static/js/main.2c5706e1.chunk.js"
   ]
 }
